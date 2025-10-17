@@ -7,7 +7,7 @@ CFLAGS   := -std=c99 -Wall -Wextra -O2
 LDFLAGS  := -lraylib -lopengl32 -lgdi32 -lwinmm
 
 #Source and object files
-SRC      := bus.c 6502core.c cpuDemo.c main.c
+SRC      := src/bus.c src/6502core.c src/cpuDemo.c src/main.c
 OBJ      := $(SRC:.c=.o)
 
 #Output exe
