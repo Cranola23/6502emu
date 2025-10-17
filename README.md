@@ -1,6 +1,6 @@
 # Ricoh 2A03 Implemented in C
-The Ricoh 2A03 is the one that was used in the NES (Nintendo Entertainment System) which is based on the 8-bit MOS 6502 cpu. 
-This is a project for a 6502 cpu emulator written in pure C which aims to help me learn about emulation and improve my understanding of the C language.
+The Ricoh 2A03 is the cpu that was used in the NES (Nintendo Entertainment System) which is based on the 8-bit MOS 6502 cpu. 
+This is a 6502 CPU emulator written in C, built to help me learn emulation and deepen my understanding of the language.
 
 ## Usage
 Requires [Raylib](https://www.raylib.com/) libraries installed.
